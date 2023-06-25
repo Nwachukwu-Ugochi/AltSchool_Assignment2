@@ -1,0 +1,1 @@
+This page was built with html, css and a little bit of JavaScript
